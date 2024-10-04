@@ -46,3 +46,6 @@ Feel free to reach out if you'd like to collaborate or just chat about tech!
 - [Jeremie on LinkedIn](https://fr.linkedin.com/in/jeremie-bomont-587268216)
 
 Thanks for stopping by! May your bugs be few and your commits be many! 🚀
+
+
+[![Les Stats GitHub de Stenoow](https://github-readme-stats.vercel.app/api?username=stenoow)](https://github.com/anuraghazra/github-readme-stats)
