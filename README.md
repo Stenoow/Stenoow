@@ -24,7 +24,10 @@ I'm a Full Stack Developer, a part-time coffee enthusiast, and a full-time code 
 ### DevOps
 - Docker
 - CI/CD with GitHub Actions
-- Playwright, CucumberJs
+
+### Testing & Automation
+- **Playwright**: For when you need your web app tested faster than you can say “end-to-end.”
+- **Cucumber.js**: Writing tests in plain English—because even non-techies should understand why things break.
 
 ### Tools
 - Git, GitHub, GitLab (saving my sanity since 2021)
