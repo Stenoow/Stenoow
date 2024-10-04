@@ -4,7 +4,6 @@ I'm a Full Stack Developer, a part-time coffee enthusiast, and a full-time code 
 
 ## 💻 About Me
 
-- 🔭 I’m currently working on [Your Current Project/Focus]. Spoiler alert: it’s going to be awesome!
 - 🌱 I’m learning about Java/Spring Boot. Because even developers need to evolve (or become a true dev ?)!
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications. Let’s make some magic together!
 - 📫 How to reach me: [LinkedIn Profile](https://fr.linkedin.com/in/jeremie-bomont-587268216). I promise I don't bite—unless you bring up Internet Explorer.
