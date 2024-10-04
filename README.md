@@ -12,7 +12,7 @@ I'm a Full Stack Developer, a part-time coffee enthusiast, and a full-time code 
 ## 🛠️ Technologies & Tools
 
 ### Frontend
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, TypeScript
 - Frameworks: React, Angular, Vue.js, ThreeJs, BootStrap
 
 ### Backend
@@ -23,6 +23,7 @@ I'm a Full Stack Developer, a part-time coffee enthusiast, and a full-time code 
 ### DevOps
 - Docker
 - CI/CD with GitHub Actions
+- Playwright, CucumberJs
 
 ### Tools
 - Git, GitHub, GitLab (saving my sanity since 2021)
