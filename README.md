@@ -18,6 +18,7 @@ I'm a Full Stack Developer, a part-time coffee enthusiast, and a full-time code 
 ### Backend
 - Node.js, Express.js
 - Python, PHP, Java
+- Frameworks: Laravel, Symfony, Spring Boot
 - Database: MongoDB, MySQL, MariaDB
 
 ### DevOps
