@@ -48,7 +48,7 @@ Feel free to reach out if you'd like to collaborate or just chat about tech!
 Thanks for stopping by! May your bugs be few and your commits be many! 🚀
 
 
-[![Les Stats GitHub de Stenoow](https://github-readme-stats.vercel.app/api?username=stenoow&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Stenoow](https://github-readme-stats.vercel.app/api?username=stenoow&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## The main languages of my projects
 
